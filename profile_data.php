@@ -15,7 +15,7 @@ return [
         [
             "title" => "Школа",
             "speciality" => "Школьник",
-            "yearStart" => "2001",
+            "yearStart" => "2000",
             "yearEnd" => "2012",
         ],
         [
