@@ -6,8 +6,8 @@ return [
         "name" => "Альберт Минвалиев",
         "photo" => "",
         "email" => "minvalievalbert@mail.ru",
-        "phone" => "+7(917)-225-86-69",
-        "site" => "example1.com",
+        "phone" => "+7(917)-225-86-77",
+        "site" => "example.com",
         "post" => "Junior PHP developer"
     ],
 
@@ -15,7 +15,7 @@ return [
         [
             "title" => "Школа",
             "speciality" => "Школьник",
-            "yearStart" => "2000",
+            "yearStart" => "2001",
             "yearEnd" => "2012",
         ],
         [
