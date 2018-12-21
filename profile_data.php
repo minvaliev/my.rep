@@ -6,7 +6,7 @@ return [
         "name" => "Альберт Минвалиев",
         "photo" => "",
         "email" => "minvalievalbert@mail.ru",
-        "phone" => "+7(917)-225-86-77",
+        "phone" => "+7(917)-225-86-69",
         "site" => "example.com",
         "post" => "Junior PHP developer"
     ],
@@ -38,7 +38,7 @@ return [
     ],
 
     "Interests" => [
-            "спорт", "музыка", "автомобили"
+            "спорт", "музыка", "автомобили", "программирование"
     ]
 
 ];
