@@ -21,7 +21,7 @@ return [
         [
             "title" => "Университет",
             "speciality" => "Студент",
-            "yearStart" => "2015",
+            "yearStart" => "2012",
             "yearEnd" => "2018",
         ]
     ],
